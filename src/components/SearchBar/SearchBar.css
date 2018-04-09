@@ -5,7 +5,7 @@
     background-image: url(https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/background_search_desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 25rem;
+    height: 18rem;
   }
   
   .SearchBar-sort-options ul {

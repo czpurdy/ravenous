@@ -50,3 +50,28 @@
     font-size: .88rem;
     line-height: 1rem;
   }
+
+  a {
+    color: black;
+    text-decoration: none;
+      transition:.5s ease-out;
+      -o-transition:.5s ease-out;
+      -ms-transition:.5s ease-out;
+      -moz-transition:.5s ease-out;
+      -webkit-transition:.5s ease-out;
+  }
+
+  a:visited {
+    color: gray;
+  }
+
+  a:hover {
+    color: #CCA353;
+      transition:.5s ease-out;
+      -o-transition:.5s ease-out;
+      -ms-transition:.5s ease-out;
+      -moz-transition:.5s ease-out;
+      -webkit-transition:.5s ease-out;
+  }
+
+  
